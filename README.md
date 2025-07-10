@@ -1,5 +1,4 @@
 ### Hello 👋 I am Ömrüm Akçocuk
-#### Front-End Developer
 Hello, I am Ömmrüm Akçocuk I am a second year student of MIS at Pamukkale University.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
